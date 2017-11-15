@@ -1,0 +1,23 @@
+.header-div {
+    height: 60px;
+    float: left;
+}
+
+.search-bar-div {
+    width:300px;
+    text-align:center;
+}
+
+.searchBox-div {
+    height: 30px;
+    font-size: 20px;
+}
+
+.logout-div{
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    margin: auto;
+}
+
